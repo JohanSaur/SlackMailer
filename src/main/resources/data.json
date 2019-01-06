@@ -1,0 +1,20 @@
+{
+  "slackSettings": {
+    "baseUri": "https://slack.com/api/users.admin.invite",
+    "token": "xxxx-xxxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "persons": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@doe.com",
+      "channels": "ABC1234"
+    },
+    {
+      "firstName": "Kalle",
+      "lastName": "Anka",
+      "email": "kalle.anka@ankeborg.se",
+      "channels": "ABC1234"
+    }
+  ]
+}

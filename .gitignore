@@ -1,0 +1,21 @@
+### GRADLE ###
+\.gradle/
+**/build/
+gradle/wrapper/
+gradlew
+gradlew.bat
+
+### SonarQube ###
+**/sonar-project.properties
+
+### IntelliJ ###
+**/\.idea/
+**/*\.iml
+**/out/
+
+### Eclipse ###
+**/*\.settings/
+**/*\.classpath
+**/*\.project
+
+**/data/elasticsearch/**
